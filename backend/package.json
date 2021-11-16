@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.801.0",
+    "aws-sdk": "^2.814.0",
     "celebrate": "^13.0.4",
     "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
